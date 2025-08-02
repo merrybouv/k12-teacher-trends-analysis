@@ -1,0 +1,1435 @@
+SCHOOL_YEAR,FIPST,STATENAME,ST,SEA_NAME,STATE_AGENCY_NO,STAFF,STAFF_COUNT,TOTAL_INDICATOR,DMS_FLAG
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Kindergarten Teachers,4796.35,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,LEA Administrators,1137.94,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Librarians/media specialists,1305.34,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Instructional Coordinators and Supervisors to the Staff,48.90,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Paraprofessionals/Instructional Aides,6807.46,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Teachers,42335.96,Derived - Major Staffing Category,Derived
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Pre-kindergarten Teachers,1202.63,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Secondary School Counselors,654.07,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,School Counselors,160.66,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Elementary Teachers,16922.47,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,School Staff,16723.31,Derived - Major Staffing Category,Derived
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,No Category Codes,76939.93,Education Unit Total,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Other Staff,12805.16,Derived - Major Staffing Category,Derived
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Elementary School Counselors,954.19,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Student Support Services Staff (w/o Psychology),2181.53,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Library/Media Support Staff,163.61,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,All Other Support Staff,12805.16,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,LEA Staff,3306.58,Derived - Major Staffing Category,Derived
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Guidance Counselors,1768.92,Derived - Major Staffing Category,Derived
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,School Administrative Support Staff,2216.77,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,School administrators,4046.60,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,Secondary Teachers,19414.51,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,LEA Administrative Support Staff,2119.74,Category Set A,Reported
+2020-2021,01,ALABAMA,AL,Alabama State Department of Education,01,School Psychologists,2.00,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Kindergarten Teachers,386.32,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Elementary School Counselors,78.66,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Elementary Teachers,3388.88,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,No Category Codes,17050.84,Education Unit Total,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Secondary Teachers,3613.96,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Instructional Coordinators and Supervisors to the Staff,0.00,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,School Psychologists,84.53,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,All Other Support Staff,2221.01,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Secondary School Counselors,195.30,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Teachers,7558.21,Derived - Major Staffing Category,Derived
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Guidance Counselors,310.16,Derived - Major Staffing Category,Derived
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Other Staff,2221.01,Derived - Major Staffing Category,Derived
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,LEA Staff,1513.63,Derived - Major Staffing Category,Derived
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,School Counselors,36.20,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,School Staff,5447.83,Derived - Major Staffing Category,Derived
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,LEA Administrators,725.71,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Pre-kindergarten Teachers,169.05,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Missing,,Category Set A,Not reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,LEA Administrative Support Staff,787.92,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Librarians/media specialists,132.35,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,School Administrative Support Staff,1125.36,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Student Support Services Staff (w/o Psychology),672.93,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Paraprofessionals/Instructional Aides,2676.33,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,Library/Media Support Staff,69.09,Category Set A,Reported
+2020-2021,02,ALASKA,AK,Alaska Department of Education and Early Development,01,School administrators,687.24,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,LEA Administrators,1539.08,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,LEA Administrative Support Staff,4095.55,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Instructional Coordinators and Supervisors to the Staff,664.34,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Elementary School Counselors,676.71,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Paraprofessionals/Instructional Aides,15149.22,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Elementary Teachers,31021.74,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Librarians/media specialists,415.46,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Pre-kindergarten Teachers,392.00,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Library/Media Support Staff,56.69,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,All Other Support Staff,13708.24,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,School Psychologists,905.46,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,School Administrative Support Staff,3835.46,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Kindergarten Teachers,2452.40,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,School administrators,2519.22,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Teachers,49546.93,Derived - Major Staffing Category,Derived
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,No Category Codes,105134.98,Education Unit Total,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Student Support Services Staff (w/o Psychology),11146.90,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,LEA Staff,6298.97,Derived - Major Staffing Category,Derived
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Secondary School Counselors,875.72,Category Set A,Reported
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Guidance Counselors,1552.43,Derived - Major Staffing Category,Derived
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Other Staff,13708.24,Derived - Major Staffing Category,Derived
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,School Staff,34028.41,Derived - Major Staffing Category,Derived
+2020-2021,04,ARIZONA,AZ,Arizona Department of Education,01,Secondary Teachers,15680.79,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Teachers,38542.66,Derived - Major Staffing Category,Derived
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Other Staff,9712.00,Derived - Major Staffing Category,Derived
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,School Staff,21826.85,Derived - Major Staffing Category,Derived
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,No Category Codes,75927.47,Education Unit Total,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Ungraded Teachers,2933.35,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),6837.52,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,School Psychologists,95.05,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Secondary Teachers,18159.57,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,LEA Administrators,652.57,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,3075.60,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,655.77,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Guidance Counselors,1346.26,Derived - Major Staffing Category,Derived
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,LEA Staff,4499.70,Derived - Major Staffing Category,Derived
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Librarians/media specialists,894.33,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,8848.33,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,2197.13,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,All Other Support Staff,9712.00,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Secondary School Counselors,762.05,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,School administrators,1910.42,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,165.60,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,2624.99,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Elementary Teachers,14596.84,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Elementary School Counselors,584.21,Category Set A,Reported
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,05,ARKANSAS,AR,ARKANSAS DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,1222.14,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Other Staff,144861.74,Derived - Major Staffing Category,Derived
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,LEA Staff,12460.16,Derived - Major Staffing Category,Derived
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,No Category Codes,613321.39,Education Unit Total,Imputation
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Secondary School Counselors,4824.81,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Secondary Teachers,89900.78,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,School administrators,16499.62,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Teachers,269850.03,Derived - Major Staffing Category,Imputation
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,School Staff,175547.33,Derived - Major Staffing Category,Derived
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,School Counselors,2266.59,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,School Psychologists,6587.96,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Librarians/media specialists,620.94,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,School Administrative Support Staff,55997.80,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Student Support Services Staff (w/o Psychology),11114.79,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Elementary Teachers,154084.79,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,LEA Administrators,7425.36,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Kindergarten Teachers,22210.81,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Pre-kindergarten Teachers,3653.65,Category Set A,Imputation
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Library/Media Support Staff,0.00,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,All Other Support Staff,144861.74,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Guidance Counselors,10602.13,Derived - Major Staffing Category,Derived
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Elementary School Counselors,3510.73,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,LEA Administrative Support Staff,502.14,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Paraprofessionals/Instructional Aides,84726.22,Category Set A,Reported
+2020-2021,06,CALIFORNIA,CA,California Department of Education,01,Instructional Coordinators and Supervisors to the Staff,4532.66,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,LEA Administrative Support Staff,4671.74,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,School Staff,35847.99,Derived - Major Staffing Category,Derived
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Guidance Counselors,3177.44,Derived - Major Staffing Category,Derived
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Secondary Teachers,24156.33,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,School administrators,3895.58,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Other Staff,13351.07,Derived - Major Staffing Category,Derived
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Teachers,54318.97,Derived - Major Staffing Category,Derived
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Student Support Services Staff (w/o Psychology),7652.63,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,No Category Codes,115896.14,Education Unit Total,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,School Counselors,452.65,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Secondary School Counselors,2075.16,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,School Administrative Support Staff,5290.56,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,LEA Staff,9200.67,Derived - Major Staffing Category,Derived
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Paraprofessionals/Instructional Aides,16972.46,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Librarians/media specialists,468.60,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Pre-kindergarten Teachers,1455.26,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Kindergarten Teachers,3931.08,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Library/Media Support Staff,636.90,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,LEA Administrators,1485.42,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,All Other Support Staff,13351.07,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Elementary Teachers,24776.30,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Elementary School Counselors,649.63,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,School Psychologists,931.26,Category Set A,Reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,08,COLORADO,CO,Colorado Department of Education,01,Instructional Coordinators and Supervisors to the Staff,3043.51,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,School administrators,2293.53,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Teachers,42580.20,Derived - Major Staffing Category,Derived
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,No Category Codes,97982.50,Education Unit Total,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,School Staff,28712.70,Derived - Major Staffing Category,Derived
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Secondary Teachers,15265.91,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Guidance Counselors,1457.62,Derived - Major Staffing Category,Derived
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Ungraded Teachers,214.97,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Paraprofessionals/Instructional Aides,16876.26,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Librarians/media specialists,668.10,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Student Support Services Staff (w/o Psychology),4471.67,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,LEA Administrators,2186.88,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Secondary School Counselors,898.45,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Other Staff,18720.23,Derived - Major Staffing Category,Derived
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,LEA Staff,6511.75,Derived - Major Staffing Category,Derived
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,LEA Administrative Support Staff,1574.00,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Library/Media Support Staff,471.52,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Elementary Teachers,24335.17,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Pre-kindergarten Teachers,1038.01,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Kindergarten Teachers,1726.14,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Elementary School Counselors,559.17,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,School Administrative Support Staff,2888.25,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,Instructional Coordinators and Supervisors to the Staff,2750.87,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,School Psychologists,1043.37,Category Set A,Reported
+2020-2021,09,CONNECTICUT,CT,Connecticut State Department of Education,01,All Other Support Staff,18720.23,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Secondary School Counselors,235.30,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Other Staff,1889.46,Derived - Major Staffing Category,Derived
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,No Category Codes,17287.97,Education Unit Total,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,School Staff,4540.48,Derived - Major Staffing Category,Derived
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Student Support Services Staff (w/o Psychology),786.63,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Secondary Teachers,4926.96,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,School Psychologists,173.00,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Teachers,9849.93,Derived - Major Staffing Category,Derived
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,School administrators,542.30,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,School Administrative Support Staff,386.71,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,LEA Staff,646.00,Derived - Major Staffing Category,Derived
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Guidance Counselors,362.10,Derived - Major Staffing Category,Derived
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Instructional Coordinators and Supervisors to the Staff,394.43,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Pre-kindergarten Teachers,166.00,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Library/Media Support Staff,0.00,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Librarians/media specialists,105.30,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,LEA Administrators,128.74,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Elementary School Counselors,126.80,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,LEA Administrative Support Staff,122.83,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Kindergarten Teachers,323.50,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Elementary Teachers,4433.47,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,All Other Support Staff,1889.46,Category Set A,Reported
+2020-2021,10,DELAWARE,DE,Delaware Department of Education,01,Paraprofessionals/Instructional Aides,2546.54,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,School Staff,5284.84,Derived - Major Staffing Category,Derived
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Other Staff,1072.56,Derived - Major Staffing Category,Derived
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Guidance Counselors,195.47,Derived - Major Staffing Category,Derived
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,No Category Codes,15775.92,Education Unit Total,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Ungraded Teachers,24.00,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Secondary School Counselors,120.17,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Teachers,7678.30,Derived - Major Staffing Category,Derived
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,School Psychologists,170.87,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,School Counselors,53.50,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,School administrators,1204.98,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,School Administrative Support Staff,428.60,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Secondary Teachers,2810.11,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,LEA Staff,1544.75,Derived - Major Staffing Category,Derived
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Library/Media Support Staff,3.50,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Librarians/media specialists,88.00,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,LEA Administrators,445.35,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,LEA Administrative Support Staff,904.94,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Elementary Teachers,3628.43,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Instructional Coordinators and Supervisors to the Staff,194.46,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Student Support Services Staff (w/o Psychology),1447.74,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Elementary School Counselors,21.80,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Paraprofessionals/Instructional Aides,1941.15,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,All Other Support Staff,1072.56,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Pre-kindergarten Teachers,837.09,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Kindergarten Teachers,378.67,Category Set A,Reported
+2020-2021,11,DISTRICT OF COLUMBIA,DC,Office of the State Superintendent of Education (OSSE),01,Missing,,Category Set A,Not reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Teachers,161413.31,Derived - Major Staffing Category,Derived
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Other Staff,59729.71,Derived - Major Staffing Category,Derived
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,LEA Staff,10964.10,Derived - Major Staffing Category,Derived
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Ungraded Teachers,27046.58,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,School Counselors,792.54,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),30739.42,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,School Psychologists,1526.89,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,School administrators,9098.70,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,School Staff,95861.84,Derived - Major Staffing Category,Derived
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Secondary Teachers,64895.63,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,17356.57,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,757.53,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,1006.74,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Guidance Counselors,6428.31,Derived - Major Staffing Category,Derived
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Secondary School Counselors,3587.19,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,LEA Administrators,2257.78,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,9082.61,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Elementary Teachers,59381.75,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,2458.82,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,34459.21,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Librarians/media specialists,1923.52,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,6247.50,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,Elementary School Counselors,2048.58,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,All Other Support Staff,59729.71,Category Set A,Reported
+2020-2021,12,FLORIDA,FL,FLORIDA DEPARTMENT OF EDUCATION,01,No Category Codes,334397.27,Education Unit Total,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,No Category Codes,234814.90,Education Unit Total,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Guidance Counselors,4130.20,Derived - Major Staffing Category,Derived
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Teachers,118059.10,Derived - Major Staffing Category,Derived
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Ungraded Teachers,18545.50,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Secondary Teachers,46642.90,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Student Support Services Staff (w/o Psychology),8538.00,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,School Psychologists,790.30,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Secondary School Counselors,2473.90,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,School administrators,6883.50,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,School Administrative Support Staff,9264.90,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,School Staff,54768.20,Derived - Major Staffing Category,Derived
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Paraprofessionals/Instructional Aides,26137.60,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Kindergarten Teachers,6246.00,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Librarians/media specialists,2033.30,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,LEA Administrators,3025.50,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Elementary School Counselors,1656.30,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Other Staff,47869.50,Derived - Major Staffing Category,Derived
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Elementary Teachers,43496.80,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Library/Media Support Staff,1120.60,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Pre-kindergarten Teachers,3127.90,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,LEA Staff,9987.90,Derived - Major Staffing Category,Derived
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,All Other Support Staff,47869.50,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,Instructional Coordinators and Supervisors to the Staff,4206.20,Category Set A,Reported
+2020-2021,13,GEORGIA,GA,Georgia Department of Education,01,LEA Administrative Support Staff,2756.20,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,No Category Codes,23259.14,Education Unit Total,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Teachers,12145.40,Derived - Major Staffing Category,Derived
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,School Staff,6194.12,Derived - Major Staffing Category,Derived
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,LEA Staff,1706.50,Derived - Major Staffing Category,Derived
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Ungraded Teachers,81.02,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Other Staff,2554.12,Derived - Major Staffing Category,Derived
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Student Support Services Staff (w/o Psychology),1647.03,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,School Psychologists,125.50,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Secondary School Counselors,387.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Guidance Counselors,659.00,Derived - Major Staffing Category,Derived
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,School administrators,735.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,School Administrative Support Staff,951.59,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Library/Media Support Staff,59.25,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,LEA Administrators,360.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Secondary Teachers,5615.20,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,LEA Administrative Support Staff,752.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Librarians/media specialists,114.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Instructional Coordinators and Supervisors to the Staff,594.50,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Elementary Teachers,5472.18,Category Set A,Imputation
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Paraprofessionals/Instructional Aides,2561.75,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,All Other Support Staff,2554.12,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Elementary School Counselors,272.00,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Pre-kindergarten Teachers,307.50,Category Set A,Reported
+2020-2021,15,HAWAII,HI,Hawaii Department of Education,01,Kindergarten Teachers,669.50,Category Set A,Imputation
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,No Category Codes,29881.73,Education Unit Total,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Teachers,17582.26,Derived - Major Staffing Category,Derived
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Guidance Counselors,623.30,Derived - Major Staffing Category,Derived
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,School Psychologists,441.52,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,School Counselors,623.30,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,School Staff,5854.61,Derived - Major Staffing Category,Derived
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,School administrators,764.38,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Other Staff,4573.77,Derived - Major Staffing Category,Derived
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Secondary Teachers,7664.48,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,School Administrative Support Staff,1026.22,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,LEA Staff,1247.79,Derived - Major Staffing Category,Derived
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Student Support Services Staff (w/o Psychology),169.18,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Library/Media Support Staff,245.91,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,LEA Administrators,162.22,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Librarians/media specialists,41.67,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,LEA Administrative Support Staff,735.71,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,All Other Support Staff,4573.77,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Kindergarten Teachers,795.90,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Elementary Teachers,8955.47,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Instructional Coordinators and Supervisors to the Staff,349.86,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Pre-kindergarten Teachers,166.41,Category Set A,Reported
+2020-2021,16,IDAHO,ID,Idaho State Department of Education,01,Paraprofessionals/Instructional Aides,3165.73,Category Set A,Reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,LEA Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Other Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Teachers,,Derived - Major Staffing Category,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Guidance Counselors,,Derived - Major Staffing Category,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,School Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Student Support Services Staff (w/o Psychology),,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,School Psychologists,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Secondary School Counselors,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,School Counselors,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,No Category Codes,,Education Unit Total,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,School administrators,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,School Administrative Support Staff,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Pre-kindergarten Teachers,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Library/Media Support Staff,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Paraprofessionals/Instructional Aides,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,LEA Administrators,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Missing,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Kindergarten Teachers,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Elementary School Counselors,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Secondary Teachers,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Elementary Teachers,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,LEA Administrative Support Staff,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,All Other Support Staff,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Librarians/media specialists,,Category Set A,Not reported
+2020-2021,17,ILLINOIS,IL,Illinois State Board of Education,01,Instructional Coordinators and Supervisors to the Staff,,Category Set A,Not reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,No Category Codes,146766.70,Education Unit Total,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Teachers,65758.31,Derived - Major Staffing Category,Derived
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,LEA Staff,6966.23,Derived - Major Staffing Category,Derived
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Student Support Services Staff (w/o Psychology),8649.66,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Secondary Teachers,30923.47,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,School Psychologists,617.54,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Secondary School Counselors,1556.62,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,School Staff,35578.99,Derived - Major Staffing Category,Derived
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,School administrators,3493.94,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Pre-kindergarten Teachers,440.49,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Paraprofessionals/Instructional Aides,14247.90,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Guidance Counselors,2176.00,Derived - Major Staffing Category,Derived
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Librarians/media specialists,522.54,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,LEA Administrators,689.09,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Library/Media Support Staff,1115.99,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,LEA Administrative Support Staff,729.43,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Kindergarten Teachers,4599.62,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Other Staff,36287.14,Derived - Major Staffing Category,Derived
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Instructional Coordinators and Supervisors to the Staff,5547.71,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Elementary Teachers,29794.73,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,School Administrative Support Staff,6931.42,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,Elementary School Counselors,619.38,Category Set A,Reported
+2020-2021,18,INDIANA,IN,Indiana Department of Education,01,All Other Support Staff,36287.14,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Teachers,36048.38,Derived - Major Staffing Category,Derived
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,School Staff,23549.12,Derived - Major Staffing Category,Derived
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Guidance Counselors,1369.32,Derived - Major Staffing Category,Derived
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Secondary Teachers,10590.97,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,LEA Staff,6369.06,Derived - Major Staffing Category,Derived
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,School Psychologists,326.27,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,School Counselors,1369.32,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,School administrators,1778.08,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Other Staff,10173.95,Derived - Major Staffing Category,Derived
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Student Support Services Staff (w/o Psychology),4510.77,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,School Administrative Support Staff,2245.92,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Pre-kindergarten Teachers,1291.95,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Paraprofessionals/Instructional Aides,13871.84,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Librarians/media specialists,376.73,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,LEA Administrators,1919.19,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,LEA Administrative Support Staff,1872.90,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Kindergarten Teachers,2924.36,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Library/Media Support Staff,439.51,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Instructional Coordinators and Supervisors to the Staff,2576.97,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Elementary Teachers,21241.10,Category Set A,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,No Category Codes,77509.83,Education Unit Total,Reported
+2020-2021,19,IOWA,IA,Iowa Department of Education,01,All Other Support Staff,10173.95,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,No Category Codes,73451.19,Education Unit Total,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Teachers,38007.33,Derived - Major Staffing Category,Derived
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,School Staff,20205.54,Derived - Major Staffing Category,Derived
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,LEA Staff,3168.02,Derived - Major Staffing Category,Derived
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Guidance Counselors,1216.60,Derived - Major Staffing Category,Derived
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Student Support Services Staff (w/o Psychology),4503.10,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,School Psychologists,430.88,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,School Counselors,1216.60,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Secondary Teachers,17612.65,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,School administrators,2091.27,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Paraprofessionals/Instructional Aides,9809.00,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Pre-kindergarten Teachers,2114.82,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Librarians/media specialists,602.99,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,LEA Administrators,459.70,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Other Staff,10853.70,Derived - Major Staffing Category,Derived
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,LEA Administrative Support Staff,1472.40,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,School Administrative Support Staff,2167.50,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Kindergarten Teachers,7631.35,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1235.92,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Elementary Teachers,10648.51,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,All Other Support Staff,10853.70,Category Set A,Reported
+2020-2021,20,KANSAS,KS,Kansas State Department of Education,01,Library/Media Support Staff,600.80,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,No Category Codes,97425.66,Education Unit Total,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,School Staff,25935.00,Derived - Major Staffing Category,Derived
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,LEA Staff,5135.23,Derived - Major Staffing Category,Derived
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Ungraded Teachers,7679.75,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Teachers,42458.13,Derived - Major Staffing Category,Derived
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Secondary Teachers,10013.86,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,School Psychologists,442.00,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,School Counselors,1797.72,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,School administrators,3654.24,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Student Support Services Staff (w/o Psychology),2987.90,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Other Staff,22099.58,Derived - Major Staffing Category,Derived
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Guidance Counselors,1797.72,Derived - Major Staffing Category,Derived
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Pre-kindergarten Teachers,1116.93,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Library/Media Support Staff,153.99,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Librarians/media specialists,1010.54,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,LEA Administrators,993.93,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Paraprofessionals/Instructional Aides,12268.52,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,LEA Administrative Support Staff,2362.25,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Kindergarten Teachers,2052.30,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1779.05,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,School Administrative Support Staff,5417.81,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Elementary Teachers,21595.29,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,21,KENTUCKY,KY,Kentucky Department of Education,01,All Other Support Staff,22099.58,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,School Staff,22693.97,Derived - Major Staffing Category,Derived
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Teachers,38368.88,Derived - Major Staffing Category,Derived
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,LEA Staff,2262.06,Derived - Major Staffing Category,Derived
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Guidance Counselors,1557.34,Derived - Major Staffing Category,Derived
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Secondary Teachers,12353.16,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,School Psychologists,249.89,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,School Counselors,1557.34,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,School administrators,3286.94,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Pre-kindergarten Teachers,1286.43,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,No Category Codes,78661.67,Education Unit Total,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Student Support Services Staff (w/o Psychology),3401.04,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Paraprofessionals/Instructional Aides,11324.88,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Library/Media Support Staff,170.72,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Librarians/media specialists,926.54,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,LEA Administrators,110.23,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,LEA Administrative Support Staff,392.26,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Kindergarten Teachers,2219.39,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,School Administrative Support Staff,3333.96,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1759.57,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Elementary Teachers,22509.90,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,All Other Support Staff,13779.42,Category Set A,Reported
+2020-2021,22,LOUISIANA,LA,Louisiana Department of Education,01,Other Staff,13779.42,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,No Category Codes,36593.97,Education Unit Total,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Other Staff,5370.20,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Guidance Counselors,580.50,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Ungraded Teachers,213.10,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Student Support Services Staff (w/o Psychology),3787.60,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,23,MAINE,ME,Maine Department of Education,01,School Psychologists,510.70,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,School Counselors,580.50,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Teachers,15142.94,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,School Administrative Support Staff,1289.60,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Pre-kindergarten Teachers,366.48,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Paraprofessionals/Instructional Aides,6415.90,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Secondary Teachers,4466.26,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,LEA Staff,2036.83,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Library/Media Support Staff,287.00,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Librarians/media specialists,181.70,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,LEA Administrators,687.16,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,LEA Administrative Support Staff,719.69,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,School Staff,13463.50,Derived - Major Staffing Category,Derived
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Kindergarten Teachers,1096.22,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Instructional Coordinators and Supervisors to the Staff,629.98,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,School administrators,991.00,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Elementary Teachers,9000.88,Category Set A,Reported
+2020-2021,23,MAINE,ME,Maine Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,23,MAINE,ME,Maine Department of Education,01,All Other Support Staff,5370.20,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,No Category Codes,122260.61,Education Unit Total,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,School Staff,29895.04,Derived - Major Staffing Category,Derived
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,LEA Staff,8349.46,Derived - Major Staffing Category,Derived
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Teachers,62276.32,Derived - Major Staffing Category,Derived
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Student Support Services Staff (w/o Psychology),6289.33,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Secondary Teachers,25263.93,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Secondary School Counselors,1364.90,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,School Psychologists,831.63,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,School administrators,3697.28,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,School Administrative Support Staff,5661.80,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Guidance Counselors,2661.97,Derived - Major Staffing Category,Derived
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Pre-kindergarten Teachers,1352.81,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Library/Media Support Staff,319.04,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Other Staff,19077.82,Derived - Major Staffing Category,Derived
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Librarians/media specialists,1132.73,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,LEA Administrators,4246.20,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,LEA Administrative Support Staff,1911.44,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Paraprofessionals/Instructional Aides,11963.23,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Kindergarten Teachers,3092.42,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Instructional Coordinators and Supervisors to the Staff,2191.82,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Elementary Teachers,32567.16,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,Elementary School Counselors,1297.07,Category Set A,Reported
+2020-2021,24,MARYLAND,MD,Maryland State Department of Education,01,All Other Support Staff,19077.82,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,School Staff,49831.36,Derived - Major Staffing Category,Derived
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,LEA Staff,6251.14,Derived - Major Staffing Category,Derived
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Guidance Counselors,2533.69,Derived - Major Staffing Category,Derived
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Secondary Teachers,23370.60,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Secondary School Counselors,1533.57,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,School Psychologists,1326.04,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,No Category Codes,136349.74,Education Unit Total,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),10558.35,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,School administrators,5554.82,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,25165.62,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,1922.46,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,1440.77,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Librarians/media specialists,555.45,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Teachers,75146.72,Derived - Major Staffing Category,Derived
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Other Staff,2586.83,Derived - Major Staffing Category,Derived
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,LEA Administrators,2823.74,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,5230.31,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,2911.63,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,4234.85,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,515.77,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Elementary Teachers,45618.81,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Elementary School Counselors,1000.12,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,All Other Support Staff,2586.83,Category Set A,Reported
+2020-2021,25,MASSACHUSETTS,MA,DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,No Category Codes,187360.03,Education Unit Total,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Other Staff,38726.49,Derived - Major Staffing Category,Derived
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,LEA Staff,8434.83,Derived - Major Staffing Category,Derived
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Ungraded Teachers,16471.54,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Student Support Services Staff (w/o Psychology),15437.71,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Secondary Teachers,32627.35,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Secondary School Counselors,1655.37,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,School Psychologists,998.06,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,School Counselors,335.29,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,School administrators,4714.28,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Teachers,84317.37,Derived - Major Staffing Category,Derived
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,School Staff,53634.97,Derived - Major Staffing Category,Derived
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Guidance Counselors,2246.37,Derived - Major Staffing Category,Derived
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Library/Media Support Staff,844.19,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Librarians/media specialists,479.96,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Paraprofessionals/Instructional Aides,19657.68,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,LEA Administrators,5400.29,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,LEA Administrative Support Staff,1208.51,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Kindergarten Teachers,5056.12,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,School Administrative Support Staff,11503.09,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1826.03,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Elementary Teachers,28476.65,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Elementary School Counselors,255.71,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,Pre-kindergarten Teachers,1685.71,Category Set A,Reported
+2020-2021,26,MICHIGAN,MI,Michigan Department of Education,01,All Other Support Staff,38726.49,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,No Category Codes,119323.15,Education Unit Total,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Other Staff,12973.20,Derived - Major Staffing Category,Derived
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,School Staff,42704.54,Derived - Major Staffing Category,Derived
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Guidance Counselors,1473.43,Derived - Major Staffing Category,Derived
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Ungraded Teachers,3342.28,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Secondary Teachers,20191.39,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Secondary School Counselors,1201.47,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,School Psychologists,774.15,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Teachers,54535.32,Derived - Major Staffing Category,Derived
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Student Support Services Staff (w/o Psychology),14495.93,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,School administrators,2665.76,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,School Administrative Support Staff,3739.06,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Pre-kindergarten Teachers,2372.42,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Paraprofessionals/Instructional Aides,19928.95,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Librarians/media specialists,433.52,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,LEA Administrators,2612.84,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,LEA Administrative Support Staff,2167.06,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Library/Media Support Staff,667.17,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Kindergarten Teachers,3454.35,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Instructional Coordinators and Supervisors to the Staff,2856.76,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Elementary Teachers,25174.88,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,Elementary School Counselors,271.96,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,All Other Support Staff,12973.20,Category Set A,Reported
+2020-2021,27,MINNESOTA,MN,Minnesota Department of Education,01,LEA Staff,7636.66,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,No Category Codes,66058.28,Education Unit Total,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,School Staff,16929.84,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,LEA Staff,3720.91,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Ungraded Teachers,3422.93,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),3404.54,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Other Staff,12816.50,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Secondary Teachers,13379.73,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Secondary School Counselors,620.11,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,School Psychologists,47.21,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Teachers,31479.63,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,School administrators,2094.35,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Guidance Counselors,1111.40,Derived - Major Staffing Category,Derived
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,586.11,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,8084.52,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,72.41,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Librarians/media specialists,725.03,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,LEA Administrators,980.22,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,2035.49,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,1666.01,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,2501.78,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,705.20,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Elementary Teachers,12424.85,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,Elementary School Counselors,491.29,Category Set A,Reported
+2020-2021,28,MISSISSIPPI,MS,MISSISSIPPI DEPARTMENT OF EDUCATION,01,All Other Support Staff,12816.50,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,No Category Codes,127265.31,Education Unit Total,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Teachers,68923.84,Derived - Major Staffing Category,Derived
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,School Staff,25534.82,Derived - Major Staffing Category,Derived
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,LEA Staff,8154.89,Derived - Major Staffing Category,Derived
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Guidance Counselors,2716.14,Derived - Major Staffing Category,Derived
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Secondary Teachers,33475.11,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Secondary School Counselors,594.56,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Other Staff,21935.62,Derived - Major Staffing Category,Derived
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,School Psychologists,453.67,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Student Support Services Staff (w/o Psychology),5737.17,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,School Counselors,993.25,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,School administrators,3537.35,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,School Administrative Support Staff,239.71,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Pre-kindergarten Teachers,2376.55,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Librarians/media specialists,1302.60,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,LEA Administrators,915.74,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Library/Media Support Staff,60.46,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,LEA Administrative Support Staff,5690.53,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Kindergarten Teachers,4115.01,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Paraprofessionals/Instructional Aides,14203.86,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,1548.62,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Elementary Teachers,28957.17,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,Elementary School Counselors,1128.33,Category Set A,Reported
+2020-2021,29,MISSOURI,MO,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,01,All Other Support Staff,21935.62,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Teachers,10941.68,Derived - Major Staffing Category,Derived
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,School Staff,4675.92,Derived - Major Staffing Category,Derived
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Other Staff,5189.53,Derived - Major Staffing Category,Derived
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Guidance Counselors,502.82,Derived - Major Staffing Category,Derived
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Ungraded Teachers,29.21,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Student Support Services Staff (w/o Psychology),651.34,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Secondary School Counselors,169.72,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,School Psychologists,131.44,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,No Category Codes,22026.81,Education Unit Total,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Secondary Teachers,3229.97,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,LEA Staff,716.86,Derived - Major Staffing Category,Derived
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,School administrators,545.95,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,School Administrative Support Staff,0.00,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Paraprofessionals/Instructional Aides,2984.77,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Pre-kindergarten Teachers,334.27,Category Set A,Imputation
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Librarians/media specialists,362.42,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,LEA Administrators,488.92,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,LEA Administrative Support Staff,22.29,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Kindergarten Teachers,819.51,Category Set A,Imputation
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Missing,,Category Set A,Not reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Instructional Coordinators and Supervisors to the Staff,205.65,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Elementary Teachers,6528.72,Category Set A,Imputation
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Elementary School Counselors,333.10,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,All Other Support Staff,5189.53,Category Set A,Reported
+2020-2021,30,MONTANA,MT,Montana Office of Public Instruction,01,Library/Media Support Staff,,Category Set A,Missing
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,No Category Codes,49010.48,Education Unit Total,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,School Staff,12700.62,Derived - Major Staffing Category,Derived
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,LEA Staff,2651.34,Derived - Major Staffing Category,Derived
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Student Support Services Staff (w/o Psychology),1479.76,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Other Staff,8835.49,Derived - Major Staffing Category,Derived
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Secondary School Counselors,408.25,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,School Psychologists,334.14,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,School administrators,1118.56,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,School Administrative Support Staff,1666.90,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Secondary Teachers,8444.48,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Teachers,23943.47,Derived - Major Staffing Category,Derived
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Guidance Counselors,879.56,Derived - Major Staffing Category,Derived
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Paraprofessionals/Instructional Aides,7173.03,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Library/Media Support Staff,395.24,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Librarians/media specialists,532.99,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,LEA Administrators,749.23,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,LEA Administrative Support Staff,1193.04,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Kindergarten Teachers,1592.89,Category Set A,Imputation
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Instructional Coordinators and Supervisors to the Staff,709.07,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Elementary Teachers,13019.56,Category Set A,Imputation
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Pre-kindergarten Teachers,886.54,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,Elementary School Counselors,471.31,Category Set A,Reported
+2020-2021,31,NEBRASKA,NE,Nebraska Department of Education,01,All Other Support Staff,8835.49,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,No Category Codes,47106.50,Education Unit Total,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Teachers,23746.00,Derived - Major Staffing Category,Derived
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,School Staff,12169.50,Derived - Major Staffing Category,Derived
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Other Staff,6913.00,Derived - Major Staffing Category,Derived
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,LEA Staff,3193.00,Derived - Major Staffing Category,Derived
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Guidance Counselors,1085.00,Derived - Major Staffing Category,Derived
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Ungraded Teachers,1762.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Secondary Teachers,10252.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Secondary School Counselors,648.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,School Psychologists,244.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Student Support Services Staff (w/o Psychology),560.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,School Counselors,88.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,School administrators,1529.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,School Administrative Support Staff,2615.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Pre-kindergarten Teachers,75.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Paraprofessionals/Instructional Aides,6559.50,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Library/Media Support Staff,404.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Librarians/media specialists,258.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,LEA Administrators,60.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,LEA Administrative Support Staff,1506.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Kindergarten Teachers,1617.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1627.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Elementary Teachers,10040.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,Elementary School Counselors,349.00,Category Set A,Reported
+2020-2021,32,NEVADA,NV,Nevada Department of Education,01,All Other Support Staff,6913.00,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Teachers,14799.90,Derived - Major Staffing Category,Derived
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,School Staff,10243.08,Derived - Major Staffing Category,Derived
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Other Staff,4499.90,Derived - Major Staffing Category,Derived
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Guidance Counselors,813.40,Derived - Major Staffing Category,Derived
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Student Support Services Staff (w/o Psychology),1360.21,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Secondary Teachers,4559.20,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,School Psychologists,225.97,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Secondary School Counselors,346.90,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,School administrators,814.80,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,School Administrative Support Staff,1303.70,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Pre-kindergarten Teachers,209.20,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Paraprofessionals/Instructional Aides,5997.50,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Missing,,Category Set A,Not reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,LEA Staff,1699.36,Derived - Major Staffing Category,Derived
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,No Category Codes,32055.64,Education Unit Total,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Library/Media Support Staff,215.10,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Librarians/media specialists,325.80,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,LEA Administrators,739.54,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,LEA Administrative Support Staff,734.42,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Kindergarten Teachers,688.60,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Instructional Coordinators and Supervisors to the Staff,225.40,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Elementary Teachers,9342.90,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,Elementary School Counselors,466.50,Category Set A,Reported
+2020-2021,33,NEW HAMPSHIRE,NH,NH Dept of Education,01,All Other Support Staff,4499.90,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,No Category Codes,238613.61,Education Unit Total,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Teachers,116530.03,Derived - Major Staffing Category,Derived
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Other Staff,36511.50,Derived - Major Staffing Category,Derived
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,LEA Staff,10936.40,Derived - Major Staffing Category,Derived
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Guidance Counselors,4071.62,Derived - Major Staffing Category,Derived
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Ungraded Teachers,18143.06,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),11807.19,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Secondary Teachers,36723.24,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,School Psychologists,2085.03,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,School Counselors,4071.62,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,School administrators,5256.00,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,9419.65,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,School Staff,70564.06,Derived - Major Staffing Category,Derived
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,4156.83,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,40780.05,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,0.00,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Librarians/media specialists,1216.14,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,LEA Administrators,1474.44,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,5419.90,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,2880.56,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,4042.06,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Elementary Teachers,54626.34,Category Set A,Reported
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,34,NEW JERSEY,NJ,NEW JERSEY DEPARTMENT OF EDUCATION,01,All Other Support Staff,36511.50,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,No Category Codes,37344.19,Education Unit Total,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Teachers,21576.65,Derived - Major Staffing Category,Derived
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,School Staff,10939.83,Derived - Major Staffing Category,Derived
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Other Staff,3592.93,Derived - Major Staffing Category,Derived
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Guidance Counselors,715.57,Derived - Major Staffing Category,Derived
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Ungraded Teachers,3954.79,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Student Support Services Staff (w/o Psychology),1585.57,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Secondary School Counselors,436.90,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,School Psychologists,15.91,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,School Counselors,5.35,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Secondary Teachers,8303.01,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,LEA Staff,519.21,Derived - Major Staffing Category,Derived
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,School administrators,1229.95,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,School Administrative Support Staff,2016.37,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Pre-kindergarten Teachers,568.13,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Paraprofessionals/Instructional Aides,5783.33,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Missing,,Category Set A,Not reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Library/Media Support Staff,118.13,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Librarians/media specialists,190.57,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,LEA Administrators,233.29,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,LEA Administrative Support Staff,27.83,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Kindergarten Teachers,1079.95,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Instructional Coordinators and Supervisors to the Staff,258.09,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Elementary Teachers,7670.77,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,Elementary School Counselors,273.32,Category Set A,Reported
+2020-2021,35,NEW MEXICO,NM,New Mexico Public Education Department,01,All Other Support Staff,3592.93,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,No Category Codes,416714.14,Education Unit Total,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Teachers,213537.44,Derived - Major Staffing Category,Derived
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Other Staff,56094.90,Derived - Major Staffing Category,Derived
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,LEA Staff,33514.73,Derived - Major Staffing Category,Derived
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Guidance Counselors,7446.27,Derived - Major Staffing Category,Derived
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Student Support Services Staff (w/o Psychology),11667.86,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Secondary Teachers,95932.49,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Secondary School Counselors,3240.67,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,School Psychologists,4086.89,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,School Counselors,2804.96,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,School administrators,9617.37,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,School Administrative Support Staff,2356.90,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Ungraded Teachers,1651.52,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,School Staff,106120.80,Derived - Major Staffing Category,Derived
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Pre-kindergarten Teachers,702.38,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Paraprofessionals/Instructional Aides,76367.00,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Missing,,Category Set A,Not reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Library/Media Support Staff,1069.20,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Librarians/media specialists,955.58,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,LEA Administrators,3953.94,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,LEA Administrative Support Staff,23683.80,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Kindergarten Teachers,13239.32,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Instructional Coordinators and Supervisors to the Staff,5876.99,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Elementary Teachers,102011.73,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,Elementary School Counselors,1400.64,Category Set A,Reported
+2020-2021,36,NEW YORK,NY,NEW YORK STATE EDUCATION DEPARTMENT,01,All Other Support Staff,56094.90,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Teachers,101057.02,Derived - Major Staffing Category,Derived
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,School Staff,48316.16,Derived - Major Staffing Category,Derived
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Other Staff,28070.19,Derived - Major Staffing Category,Derived
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,LEA Staff,8645.30,Derived - Major Staffing Category,Derived
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Guidance Counselors,4637.79,Derived - Major Staffing Category,Derived
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Ungraded Teachers,835.10,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Student Support Services Staff (w/o Psychology),9249.09,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Secondary School Counselors,2620.83,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Secondary Teachers,29074.93,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,School Psychologists,2817.88,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,School Counselors,132.52,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,School administrators,6108.52,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,School Administrative Support Staff,6916.43,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Pre-kindergarten Teachers,1987.39,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Paraprofessionals/Instructional Aides,20988.11,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,No Category Codes,190726.46,Education Unit Total,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Missing,,Category Set A,Not reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Library/Media Support Staff,212.71,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Librarians/media specialists,2023.42,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,LEA Administrators,1784.59,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,LEA Administrative Support Staff,5691.15,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Kindergarten Teachers,6890.83,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Instructional Coordinators and Supervisors to the Staff,1169.56,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Elementary Teachers,62268.77,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,Elementary School Counselors,1884.44,Category Set A,Reported
+2020-2021,37,NORTH CAROLINA,NC,NC Department of Public Instruction,01,All Other Support Staff,28070.19,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,No Category Codes,19480.98,Education Unit Total,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,School Staff,5738.74,Derived - Major Staffing Category,Derived
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Other Staff,2812.42,Derived - Major Staffing Category,Derived
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,LEA Staff,1070.19,Derived - Major Staffing Category,Derived
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Student Support Services Staff (w/o Psychology),952.17,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Secondary Teachers,3118.07,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,School Psychologists,65.26,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,School Counselors,386.81,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,School administrators,520.41,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,School Administrative Support Staff,589.73,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Guidance Counselors,386.81,Derived - Major Staffing Category,Derived
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Pre-kindergarten Teachers,168.55,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Paraprofessionals/Instructional Aides,3251.51,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Missing,,Category Set A,Not reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Library/Media Support Staff,185.08,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Teachers,9472.82,Derived - Major Staffing Category,Derived
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Librarians/media specialists,174.58,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,LEA Administrators,532.49,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,LEA Administrative Support Staff,315.01,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Kindergarten Teachers,603.23,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Instructional Coordinators and Supervisors to the Staff,222.69,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Elementary Teachers,5582.97,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,38,NORTH DAKOTA,ND,North Dakota Department of Public Instruction,01,All Other Support Staff,2812.42,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,No Category Codes,320877.72,Education Unit Total,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Teachers,101147.65,Derived - Major Staffing Category,Derived
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,School Staff,73938.25,Derived - Major Staffing Category,Derived
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,LEA Staff,18925.55,Derived - Major Staffing Category,Derived
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Guidance Counselors,4082.12,Derived - Major Staffing Category,Derived
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Ungraded Teachers,2280.33,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Student Support Services Staff (w/o Psychology),27668.83,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Secondary Teachers,47211.75,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,School Psychologists,2002.07,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,School Counselors,4082.12,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,School administrators,5671.74,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,School Administrative Support Staff,11669.92,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Pre-kindergarten Teachers,2284.72,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Other Staff,122784.04,Derived - Major Staffing Category,Derived
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Paraprofessionals/Instructional Aides,24685.54,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Library/Media Support Staff,1517.43,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Librarians/media specialists,722.72,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,LEA Administrators,2685.78,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,LEA Administrative Support Staff,14171.34,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Kindergarten Teachers,6555.37,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Instructional Coordinators and Supervisors to the Staff,2068.43,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Elementary Teachers,42815.48,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,39,OHIO,OH,Ohio Department of Education,01,All Other Support Staff,122784.04,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,No Category Codes,87840.15,Education Unit Total,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Teachers,43110.11,Derived - Major Staffing Category,Derived
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,School Staff,24499.64,Derived - Major Staffing Category,Derived
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Other Staff,14181.73,Derived - Major Staffing Category,Derived
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Guidance Counselors,1743.72,Derived - Major Staffing Category,Derived
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),5556.40,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Secondary Teachers,18922.17,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Secondary School Counselors,1020.52,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,School Psychologists,168.44,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,School administrators,2487.20,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,LEA Staff,4304.95,Derived - Major Staffing Category,Derived
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,3797.51,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,1740.43,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,10953.51,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,656.76,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Librarians/media specialists,879.82,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,LEA Administrators,853.65,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,3053.07,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,2095.47,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,398.23,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Elementary Teachers,20352.04,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,Elementary School Counselors,723.20,Category Set A,Reported
+2020-2021,40,OKLAHOMA,OK,OKLAHOMA STATE DEPARTMENT OF EDUCATION,01,All Other Support Staff,14181.73,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,No Category Codes,70065.40,Education Unit Total,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,School Staff,20735.12,Derived - Major Staffing Category,Derived
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Other Staff,13433.13,Derived - Major Staffing Category,Derived
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,LEA Staff,3612.43,Derived - Major Staffing Category,Derived
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Student Support Services Staff (w/o Psychology),2596.93,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Secondary Teachers,9105.64,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,School Psychologists,394.08,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,School Counselors,1498.79,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,School administrators,1856.82,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,School Administrative Support Staff,3971.06,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Guidance Counselors,1498.79,Derived - Major Staffing Category,Derived
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Pre-kindergarten Teachers,351.65,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Paraprofessionals/Instructional Aides,11101.46,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Teachers,30785.93,Derived - Major Staffing Category,Derived
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Library/Media Support Staff,668.07,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Librarians/media specialists,146.70,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,LEA Administrators,501.78,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,LEA Administrative Support Staff,2596.17,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Kindergarten Teachers,2420.20,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Instructional Coordinators and Supervisors to the Staff,514.48,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Elementary Teachers,18908.44,Category Set A,Reported
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,41,OREGON,OR,Oregon Department of Education,01,All Other Support Staff,13433.13,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,No Category Codes,250033.48,Education Unit Total,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Teachers,125028.25,Derived - Major Staffing Category,Derived
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,School Staff,61050.76,Derived - Major Staffing Category,Derived
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Other Staff,46972.00,Derived - Major Staffing Category,Derived
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,LEA Staff,12147.41,Derived - Major Staffing Category,Derived
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Guidance Counselors,4835.06,Derived - Major Staffing Category,Derived
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Ungraded Teachers,11921.62,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Secondary Teachers,53363.09,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,School Psychologists,1642.18,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Student Support Services Staff (w/o Psychology),8774.06,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,School Counselors,4835.06,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,School administrators,5553.74,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,School Administrative Support Staff,9809.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Pre-kindergarten Teachers,585.38,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Paraprofessionals/Instructional Aides,32432.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Library/Media Support Staff,1318.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Librarians/media specialists,1521.78,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,LEA Administrators,2661.42,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,LEA Administrative Support Staff,7573.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Kindergarten Teachers,5320.19,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1912.99,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Elementary Teachers,53837.97,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,42,PENNSYLVANIA,PA,Pennsylvania Department of Education,01,All Other Support Staff,46972.00,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Teachers,10669.04,Derived - Major Staffing Category,Derived
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,School Staff,6316.32,Derived - Major Staffing Category,Derived
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Other Staff,1963.06,Derived - Major Staffing Category,Derived
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Guidance Counselors,336.42,Derived - Major Staffing Category,Derived
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),2000.08,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Secondary Teachers,3534.87,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,School Psychologists,178.08,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Secondary School Counselors,280.72,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,School administrators,574.40,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,718.85,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,215.06,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,2658.55,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,LEA Staff,1056.87,Derived - Major Staffing Category,Derived
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,No Category Codes,20341.71,Education Unit Total,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,10.20,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Librarians/media specialists,176.16,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,LEA Administrators,337.17,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,508.40,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,637.00,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,211.30,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Elementary Teachers,6282.11,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,Elementary School Counselors,55.70,Category Set A,Reported
+2020-2021,44,RHODE ISLAND,RI,RHODE ISLAND DEPARTMENT OF EDUCATION,01,All Other Support Staff,1963.06,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,No Category Codes,100166.20,Education Unit Total,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,School Staff,24923.12,Derived - Major Staffing Category,Derived
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Other Staff,12641.80,Derived - Major Staffing Category,Derived
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,LEA Staff,6616.28,Derived - Major Staffing Category,Derived
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Guidance Counselors,2282.06,Derived - Major Staffing Category,Derived
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Student Support Services Staff (w/o Psychology),2502.86,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Secondary Teachers,16290.73,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Secondary School Counselors,857.95,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,School Psychologists,573.31,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,School administrators,3491.80,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,School Administrative Support Staff,4077.35,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Teachers,53702.97,Derived - Major Staffing Category,Derived
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Pre-kindergarten Teachers,1150.61,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Paraprofessionals/Instructional Aides,12593.65,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Library/Media Support Staff,597.75,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Librarians/media specialists,1086.40,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,LEA Administrators,945.20,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,LEA Administrative Support Staff,4103.53,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Kindergarten Teachers,2492.09,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1567.55,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Elementary Teachers,33769.54,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,Elementary School Counselors,1424.11,Category Set A,Reported
+2020-2021,45,SOUTH CAROLINA,SC,South Carolina Department of Education,01,All Other Support Staff,12641.80,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,No Category Codes,20184.39,Education Unit Total,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Teachers,10020.18,Derived - Major Staffing Category,Derived
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,School Staff,5179.21,Derived - Major Staffing Category,Derived
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,LEA Staff,1231.15,Derived - Major Staffing Category,Derived
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Guidance Counselors,384.90,Derived - Major Staffing Category,Derived
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Ungraded Teachers,1202.33,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Secondary Teachers,2522.01,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,School Psychologists,86.29,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Student Support Services Staff (w/o Psychology),931.37,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,School Counselors,384.90,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,School administrators,455.42,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Other Staff,3368.95,Derived - Major Staffing Category,Derived
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,School Administrative Support Staff,548.69,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Pre-kindergarten Teachers,196.19,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Paraprofessionals/Instructional Aides,3027.65,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Library/Media Support Staff,63.41,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Librarians/media specialists,66.38,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,LEA Administrators,767.58,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,LEA Administrative Support Staff,339.67,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Kindergarten Teachers,630.69,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Instructional Coordinators and Supervisors to the Staff,123.90,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Elementary Teachers,5468.96,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,46,SOUTH DAKOTA,SD,South Dakota Department of Education,01,All Other Support Staff,3368.95,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,No Category Codes,131078.64,Education Unit Total,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,School Staff,31319.67,Derived - Major Staffing Category,Derived
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Other Staff,27292.50,Derived - Major Staffing Category,Derived
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,LEA Staff,5663.63,Derived - Major Staffing Category,Derived
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Student Support Services Staff (w/o Psychology),3274.46,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Secondary Teachers,19108.78,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Secondary School Counselors,0.00,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,School Psychologists,523.50,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,School Counselors,2135.80,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,School administrators,3691.39,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Guidance Counselors,2135.80,Derived - Major Staffing Category,Derived
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,School Administrative Support Staff,4433.33,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Pre-kindergarten Teachers,1369.84,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Teachers,64667.05,Derived - Major Staffing Category,Derived
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Paraprofessionals/Instructional Aides,17619.90,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Library/Media Support Staff,443.90,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Librarians/media specialists,1333.19,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,LEA Administrators,258.49,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,LEA Administrative Support Staff,3952.20,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Kindergarten Teachers,3946.20,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1452.94,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Elementary Teachers,40242.23,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,Elementary School Counselors,0.00,Category Set A,Reported
+2020-2021,47,TENNESSEE,TN,Tennessee Department of Education,01,All Other Support Staff,27292.50,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,No Category Codes,749124.75,Education Unit Total,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Teachers,370718.50,Derived - Major Staffing Category,Derived
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,School Staff,173177.12,Derived - Major Staffing Category,Derived
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Other Staff,152529.55,Derived - Major Staffing Category,Derived
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,LEA Staff,39004.00,Derived - Major Staffing Category,Derived
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Guidance Counselors,13695.58,Derived - Major Staffing Category,Derived
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Ungraded Teachers,28371.45,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Secondary Teachers,162631.37,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Student Support Services Staff (w/o Psychology),27885.88,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,School Psychologists,2159.81,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,School Counselors,13695.58,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,School administrators,29106.03,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,School Administrative Support Staff,28297.46,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Pre-kindergarten Teachers,12111.99,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Paraprofessionals/Instructional Aides,79671.69,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Missing,,Category Set A,Not reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Library/Media Support Staff,1570.77,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Librarians/media specialists,4485.48,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,LEA Administrators,8277.71,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,LEA Administrative Support Staff,26085.34,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Kindergarten Teachers,22293.79,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Instructional Coordinators and Supervisors to the Staff,4640.95,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Elementary Teachers,145309.90,Category Set A,Reported
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,48,TEXAS,TX,TEXAS EDUCATION AGENCY,01,All Other Support Staff,152529.55,Category Set A,Reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Teachers,,Derived - Major Staffing Category,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,School Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Other Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Guidance Counselors,,Derived - Major Staffing Category,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Student Support Services Staff (w/o Psychology),,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Secondary Teachers,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Secondary School Counselors,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,School Psychologists,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,School administrators,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,LEA Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,School Administrative Support Staff,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Pre-kindergarten Teachers,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Paraprofessionals/Instructional Aides,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Missing,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,No Category Codes,,Education Unit Total,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Library/Media Support Staff,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Librarians/media specialists,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,LEA Administrators,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,LEA Administrative Support Staff,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Kindergarten Teachers,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Instructional Coordinators and Supervisors to the Staff,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Elementary Teachers,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,Elementary School Counselors,,Category Set A,Not reported
+2020-2021,49,UTAH,UT,Utah State Board of Education,01,All Other Support Staff,,Category Set A,Not reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,No Category Codes,18544.54,Education Unit Total,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Teachers,7989.43,Derived - Major Staffing Category,Derived
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Other Staff,1922.53,Derived - Major Staffing Category,Derived
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,LEA Staff,1285.44,Derived - Major Staffing Category,Derived
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Guidance Counselors,442.96,Derived - Major Staffing Category,Derived
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Ungraded Teachers,2345.15,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Student Support Services Staff (w/o Psychology),1622.65,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Secondary Teachers,2555.06,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Secondary School Counselors,238.32,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,School Psychologists,84.23,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,School administrators,551.46,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,School Administrative Support Staff,803.38,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,School Staff,6904.18,Derived - Major Staffing Category,Derived
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Pre-kindergarten Teachers,212.18,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Paraprofessionals/Instructional Aides,3570.03,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Missing,,Category Set A,Not reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Library/Media Support Staff,69.63,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Librarians/media specialists,202.80,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,LEA Administrators,175.79,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,LEA Administrative Support Staff,549.27,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Kindergarten Teachers,376.27,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Instructional Coordinators and Supervisors to the Staff,560.38,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Elementary Teachers,2500.77,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,Elementary School Counselors,204.64,Category Set A,Reported
+2020-2021,50,VERMONT,VT,Vermont Agency of Education,01,All Other Support Staff,1922.53,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,No Category Codes,185836.86,Education Unit Total,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Teachers,87049.37,Derived - Major Staffing Category,Derived
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,School Staff,47576.18,Derived - Major Staffing Category,Derived
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,LEA Staff,9255.22,Derived - Major Staffing Category,Derived
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Guidance Counselors,3940.20,Derived - Major Staffing Category,Derived
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Student Support Services Staff (w/o Psychology),12234.79,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Secondary School Counselors,2168.35,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,School Psychologists,819.82,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,School Counselors,248.25,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Secondary Teachers,49396.84,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Other Staff,38015.89,Derived - Major Staffing Category,Derived
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,School administrators,4424.12,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,School Administrative Support Staff,6961.12,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Pre-kindergarten Teachers,2256.52,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Paraprofessionals/Instructional Aides,19574.75,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Library/Media Support Staff,1782.05,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Librarians/media specialists,1779.53,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,LEA Administrators,2419.91,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,LEA Administrative Support Staff,4941.41,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Kindergarten Teachers,4496.58,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Instructional Coordinators and Supervisors to the Staff,1893.90,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Elementary Teachers,30899.43,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,Elementary School Counselors,1523.60,Category Set A,Reported
+2020-2021,51,VIRGINIA,VA,Virginia Department of Education,01,All Other Support Staff,38015.89,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,No Category Codes,100972.63,Education Unit Total,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,School Staff,25809.71,Derived - Major Staffing Category,Derived
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Other Staff,2094.31,Derived - Major Staffing Category,Derived
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,LEA Staff,8793.80,Derived - Major Staffing Category,Derived
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Ungraded Teachers,1935.24,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Student Support Services Staff (w/o Psychology),3117.58,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Secondary Teachers,25698.17,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Secondary School Counselors,1631.56,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,School Psychologists,1117.06,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,School administrators,3623.39,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Guidance Counselors,2464.74,Derived - Major Staffing Category,Derived
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,School Administrative Support Staff,4845.25,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Pre-kindergarten Teachers,592.07,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Teachers,61810.07,Derived - Major Staffing Category,Derived
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Paraprofessionals/Instructional Aides,12313.84,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Missing,,Category Set A,Not reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Library/Media Support Staff,0.00,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Librarians/media specialists,792.59,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,LEA Administrators,1462.63,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,LEA Administrative Support Staff,3310.22,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Kindergarten Teachers,5114.73,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Instructional Coordinators and Supervisors to the Staff,4020.95,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Elementary Teachers,28469.86,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,Elementary School Counselors,833.18,Category Set A,Reported
+2020-2021,53,WASHINGTON,WA,Office of Superintendent of Public Instruction,01,All Other Support Staff,2094.31,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,No Category Codes,36910.70,Education Unit Total,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Teachers,18629.99,Derived - Major Staffing Category,Derived
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,School Staff,6712.40,Derived - Major Staffing Category,Derived
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Other Staff,8299.76,Derived - Major Staffing Category,Derived
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,LEA Staff,2487.06,Derived - Major Staffing Category,Derived
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Guidance Counselors,781.50,Derived - Major Staffing Category,Derived
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Ungraded Teachers,17.00,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Secondary Teachers,8953.87,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Student Support Services Staff (w/o Psychology),1230.38,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Secondary School Counselors,490.10,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,School Psychologists,135.00,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,School administrators,1142.97,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,School Administrative Support Staff,473.49,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Pre-kindergarten Teachers,567.00,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Paraprofessionals/Instructional Aides,3529.97,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Library/Media Support Staff,,Category Set A,Not reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Librarians/media specialists,200.59,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,LEA Administrators,812.91,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,LEA Administrative Support Staff,1287.14,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Kindergarten Teachers,931.50,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Instructional Coordinators and Supervisors to the Staff,387.01,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Elementary Teachers,8160.62,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,Elementary School Counselors,291.40,Category Set A,Reported
+2020-2021,54,WEST VIRGINIA,WV,West Virginia Department of Education,01,All Other Support Staff,8299.76,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,No Category Codes,113940.00,Education Unit Total,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,School Staff,28241.23,Derived - Major Staffing Category,Derived
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Other Staff,18304.21,Derived - Major Staffing Category,Derived
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,LEA Staff,5160.23,Derived - Major Staffing Category,Derived
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Ungraded Teachers,496.44,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Student Support Services Staff (w/o Psychology),8938.91,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Secondary Teachers,29571.02,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Secondary School Counselors,1218.00,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,School Psychologists,993.40,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,School Counselors,94.34,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,School administrators,2785.90,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Guidance Counselors,2142.67,Derived - Major Staffing Category,Derived
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,School Administrative Support Staff,3730.22,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Pre-kindergarten Teachers,2561.22,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Paraprofessionals/Instructional Aides,10229.59,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Missing,,Category Set A,Not reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Teachers,60091.66,Derived - Major Staffing Category,Derived
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Library/Media Support Staff,664.54,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Librarians/media specialists,898.67,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,LEA Administrators,1217.78,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,LEA Administrative Support Staff,2679.83,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Kindergarten Teachers,3004.62,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Instructional Coordinators and Supervisors to the Staff,1262.62,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Elementary Teachers,24458.36,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,Elementary School Counselors,830.33,Category Set A,Reported
+2020-2021,55,WISCONSIN,WI,Wisconsin Dept of Public Instruction,01,All Other Support Staff,18304.21,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,No Category Codes,16808.21,Education Unit Total,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Teachers,7521.73,Derived - Major Staffing Category,Derived
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Other Staff,3026.07,Derived - Major Staffing Category,Derived
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,LEA Staff,1058.17,Derived - Major Staffing Category,Derived
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Guidance Counselors,298.29,Derived - Major Staffing Category,Derived
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Student Support Services Staff (w/o Psychology),869.23,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Secondary Teachers,3559.33,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Secondary School Counselors,203.02,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,School Psychologists,98.65,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,School Counselors,0.00,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,School administrators,398.65,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,School Administrative Support Staff,565.58,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Pre-kindergarten Teachers,36.51,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,School Staff,4903.95,Derived - Major Staffing Category,Derived
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Paraprofessionals/Instructional Aides,2545.29,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Library/Media Support Staff,349.44,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Librarians/media specialists,77.11,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,LEA Administrators,397.61,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,LEA Administrative Support Staff,444.42,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Kindergarten Teachers,422.16,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Instructional Coordinators and Supervisors to the Staff,216.14,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Elementary Teachers,3503.73,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,Elementary School Counselors,95.27,Category Set A,Reported
+2020-2021,56,WYOMING,WY,Wyoming Department of Education,01,All Other Support Staff,3026.07,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,No Category Codes,11901.00,Education Unit Total,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Teachers,4026.00,Derived - Major Staffing Category,Derived
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,School Staff,3137.00,Derived - Major Staffing Category,Derived
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Other Staff,3333.00,Derived - Major Staffing Category,Derived
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Guidance Counselors,243.00,Derived - Major Staffing Category,Derived
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Ungraded Teachers,104.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Student Support Services Staff (w/o Psychology),704.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Secondary Teachers,792.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Secondary School Counselors,32.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,School Psychologists,58.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,School Counselors,13.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,LEA Staff,1162.00,Derived - Major Staffing Category,Derived
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,School administrators,325.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,School Administrative Support Staff,928.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Pre-kindergarten Teachers,,Category Set A,Not reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Paraprofessionals/Instructional Aides,1051.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Missing,,Category Set A,Not reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Library/Media Support Staff,27.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Librarians/media specialists,44.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,LEA Administrators,40.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,LEA Administrative Support Staff,1046.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Kindergarten Teachers,159.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Instructional Coordinators and Supervisors to the Staff,76.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Elementary Teachers,2971.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,Elementary School Counselors,198.00,Category Set A,Reported
+2020-2021,59,BUREAU OF INDIAN EDUCATION,BI,Bureau of Indian Education,01,All Other Support Staff,3333.00,Category Set A,Reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,No Category Codes,,Education Unit Total,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,School Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Other Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,LEA Staff,,Derived - Major Staffing Category,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Student Support Services Staff (w/o Psychology),,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Secondary Teachers,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Secondary School Counselors,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,School Psychologists,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,School Counselors,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,School administrators,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,School Administrative Support Staff,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Guidance Counselors,,Derived - Major Staffing Category,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Teachers,,Derived - Major Staffing Category,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Pre-kindergarten Teachers,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Paraprofessionals/Instructional Aides,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Library/Media Support Staff,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Librarians/media specialists,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,LEA Administrators,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,LEA Administrative Support Staff,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Kindergarten Teachers,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Instructional Coordinators and Supervisors to the Staff,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Elementary Teachers,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,Elementary School Counselors,,Category Set A,Not reported
+2020-2021,60,AMERICAN SAMOA,AS,American Samoa Department of Education,01,All Other Support Staff,,Category Set A,Not reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,No Category Codes,3618.00,Education Unit Total,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Teachers,1813.00,Derived - Major Staffing Category,Derived
+2020-2021,66,GUAM,GU,Guam Department of Education,01,School Staff,1256.00,Derived - Major Staffing Category,Derived
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Other Staff,145.00,Derived - Major Staffing Category,Derived
+2020-2021,66,GUAM,GU,Guam Department of Education,01,LEA Staff,321.00,Derived - Major Staffing Category,Derived
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Guidance Counselors,83.00,Derived - Major Staffing Category,Derived
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Secondary Teachers,964.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Student Support Services Staff (w/o Psychology),116.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Secondary School Counselors,55.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,School Psychologists,4.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,66,GUAM,GU,Guam Department of Education,01,School administrators,81.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,School Administrative Support Staff,166.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Pre-kindergarten Teachers,34.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Paraprofessionals/Instructional Aides,846.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Library/Media Support Staff,4.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Librarians/media specialists,39.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,LEA Administrators,46.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,LEA Administrative Support Staff,151.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Kindergarten Teachers,84.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Instructional Coordinators and Supervisors to the Staff,124.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Elementary Teachers,731.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,Elementary School Counselors,28.00,Category Set A,Reported
+2020-2021,66,GUAM,GU,Guam Department of Education,01,All Other Support Staff,145.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,No Category Codes,38079.00,Education Unit Total,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,School Staff,6516.00,Derived - Major Staffing Category,Derived
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Other Staff,6417.00,Derived - Major Staffing Category,Derived
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,LEA Staff,1522.00,Derived - Major Staffing Category,Derived
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Ungraded Teachers,5432.57,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Student Support Services Staff (w/o Psychology),3421.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Secondary Teachers,5595.88,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Secondary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,School Psychologists,4.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,School Counselors,515.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,School administrators,862.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Guidance Counselors,515.00,Derived - Major Staffing Category,Derived
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,School Administrative Support Staff,1327.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Pre-kindergarten Teachers,209.82,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Paraprofessionals/Instructional Aides,73.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Missing,,Category Set A,Not reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Teachers,23109.00,Derived - Major Staffing Category,Derived
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Library/Media Support Staff,55.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Librarians/media specialists,774.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,LEA Administrators,202.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,LEA Administrative Support Staff,1105.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Kindergarten Teachers,1294.02,Category Set A,Imputation
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Instructional Coordinators and Supervisors to the Staff,215.00,Category Set A,Reported
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Elementary Teachers,10576.71,Category Set A,Imputation
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,Elementary School Counselors,0.00,Category Set A,Post-submission edit
+2020-2021,72,PUERTO RICO,PR,PUERTO RICO DEPARTMENT OF EDUCATION,01,All Other Support Staff,6417.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,No Category Codes,2001.00,Education Unit Total,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Teachers,929.00,Derived - Major Staffing Category,Derived
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,School Staff,443.00,Derived - Major Staffing Category,Derived
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,LEA Staff,129.00,Derived - Major Staffing Category,Derived
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Guidance Counselors,64.00,Derived - Major Staffing Category,Derived
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Ungraded Teachers,0.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Student Support Services Staff (w/o Psychology),29.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Secondary Teachers,505.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Secondary School Counselors,31.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,School Psychologists,6.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,School Counselors,10.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,School administrators,65.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Other Staff,436.00,Derived - Major Staffing Category,Derived
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,School Administrative Support Staff,78.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Pre-kindergarten Teachers,4.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Paraprofessionals/Instructional Aides,250.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Missing,,Category Set A,Not reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Library/Media Support Staff,2.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Librarians/media specialists,13.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,LEA Administrators,38.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,LEA Administrative Support Staff,68.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Kindergarten Teachers,39.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Instructional Coordinators and Supervisors to the Staff,23.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Elementary Teachers,381.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,Elementary School Counselors,23.00,Category Set A,Reported
+2020-2021,78,U.S. VIRGIN ISLANDS,VI,U.S. Virgin Islands Department of Education,01,All Other Support Staff,436.00,Category Set A,Reported
