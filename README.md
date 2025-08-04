@@ -15,20 +15,18 @@ COVID-19 on teacher retention and recruitment across 58 US jurisdictions.
 ## Key Findings So Far
 
 ### National Picture
-- **COVID Impact**: 169,019 teacher workforce reduction in 2020-21 (5.2% 
-drop nationally)
+- **COVID Impact**: Apparent 169,019 teacher reduction (5.2% drop) largely due to Illinois and Utah reporting gaps; actual workforce loss among consistently reporting states was ~6,000 teachers (0.2%)
 - **Recovery Pattern**: Steady workforce growth since 2021, approaching 
 pre-pandemic levels
-- **Current Status**: 3.28 million teachers nationally as of 2023-24
+- **Current Status**: 3.27 million teachers nationally as of 2023-24
+- **Data Quality**: Analysis revealed significant reporting inconsistencies that can lead to misleading interpretations of teacher workforce trends
 
 ### State Stories
 **States facing the biggest challenges (2016-17 to 2023-24):**
 - Florida: lost 30,539 teachers (16.4% decline)
-- Guam: lost 605 teachers (26.4% decline)
 - Puerto Rico: lost 4,308 teachers (14.9% decline)
 
 **States with growing teacher workforces (2016-17 to 2023-24):**
-- Utah: gained 4,696 teachers (16.3% growth)
 - Indiana: gained 7,212 teachers (12.0% growth)
 - South Carolina: gained 6,453 teachers (12.7% growth)
 
@@ -77,14 +75,6 @@ validation
 investigation
 
 ## How It's Organized
-
-```
-k12-teacher-trends-analysis/
-├── data/                          # NCES source data files (2016-2024)
-├── notebooks/                     # Jupyter analysis notebooks
-├── 01_teacher_data_exploration.ipynb  # Primary analysis notebook
-└── README.md                      # Project documentation
-```
 
 ```
 k12-teacher-trends-analysis/
