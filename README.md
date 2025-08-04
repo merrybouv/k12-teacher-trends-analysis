@@ -79,6 +79,7 @@ investigation
 ```
 k12-teacher-trends-analysis/
 ├── data/                          # NCES source data files (2016-2024)
+├── outputs/                       # Generated visualizations and charts
 ├── notebooks/                     # Jupyter analysis notebooks
 ├── 01_teacher_data_exploration.ipynb  # Primary analysis notebook
 └── README.md                      # Project documentation
