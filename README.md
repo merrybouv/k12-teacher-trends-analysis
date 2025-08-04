@@ -10,7 +10,7 @@ federal education data (2016-2024)
 This repository contains an ongoing analysis of K-12 teacher workforce 
 trends using National Center for Education Statistics (NCES) data. I'm 
 exploring national patterns, state-level variations, and the impact of 
-COVID-19 on teacher retention and recruitment across 58 US jurisdictions.
+COVID-19 on teacher workforce size across 58 US jurisdictions.
 
 ## Key Findings So Far
 
@@ -23,17 +23,22 @@ pre-pandemic levels
 
 ### State Stories
 **States facing the biggest challenges (2016-17 to 2023-24):**
+- U.S. Virgin Islands: lost 246 teachers (21.3% decline)
 - Florida: lost 30,539 teachers (16.4% decline)
 - Puerto Rico: lost 4,308 teachers (14.9% decline)
+- Alaska: lost 604 teachers (7.7% decline)
 
 **States with growing teacher workforces (2016-17 to 2023-24):**
-- Indiana: gained 7,212 teachers (12.0% growth)
+- District of Columbia: gained 1,608 teachers (23.9% growth)
 - South Carolina: gained 6,453 teachers (12.7% growth)
+- Indiana: gained 7,212 teachers (12.0% growth)
+- Idaho: gained 1,761 teachers (10.9% growth)
 
 ### Interesting Data Patterns
 - Bureau of Indian Education reporting shows evolving federal data 
 collection methods that raise questions about how Native American 
 education data is tracked
+- Methodological Discovery: Initial analysis appeared to show massive COVID impact, but deeper investigation revealed the importance of distinguishing between actual workforce changes and data reporting inconsistencies.
 - Missing values represent 7.4% of records, indicating generally strong 
 state reporting compliance, though patterns of which states and staff 
 categories have missing data could warrant further investigation
@@ -45,6 +50,7 @@ further investigation
 Current analysis includes:
 - National workforce trend analysis with COVID period highlighted
 - State-by-state comparison of teacher count changes
+- Professional visualizations for LinkedIn and presentations
 - Investigation of unusual data patterns and reporting inconsistencies
 
 ## About the Data
@@ -107,6 +113,7 @@ specialized roles
 - **State Spotlights**: Focused analysis of states with interesting 
 patterns
 - **Demographics**: Bringing in population and economic data for context
+- **Salary Analysis**: Comparing teacher workforce changes with state salary levels and salary progression patterns to identify potential correlations
 - **Policy Connections**: Looking at how state education policies relate 
 to teacher workforce trends
 
@@ -114,16 +121,14 @@ to teacher workforce trends
 - How do teacher shortage patterns vary by grade level and subject area?
 - What demographic and economic factors might explain the state 
 differences?
-- Which states are doing something right when it comes to teacher 
-retention?
+- Which states are successfully growing their teacher workforce?
 
 ## Why This Matters
 
 These findings could inform:
-- Teacher shortage mitigation strategies
-- Workforce planning for education recovery
+- Teacher workforce planning strategies
 - Better coordination between federal and state education systems
-- Resource allocation for teacher recruitment and retention
+- Resource allocation for teacher recruitment and workforce growth
 
 ## About Me
 
