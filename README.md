@@ -15,10 +15,10 @@ COVID-19 on teacher workforce size across 58 US jurisdictions.
 ## Key Findings So Far
 
 ### National Picture
-- **COVID Impact**: Apparent 169,019 teacher reduction (5.2% drop) largely due to Illinois and Utah reporting gaps; actual workforce loss among consistently reporting states was ~6,000 teachers (0.2%)
+- **COVID Impact**: Apparent 338,039 teacher reduction (5.2% drop) largely due to Illinois and Utah reporting gaps; actual workforce loss among consistently reporting states was ~12,000 teachers (0.2%) using comprehensive teacher category analysis
 - **Recovery Pattern**: Steady workforce growth since 2021, approaching 
 pre-pandemic levels
-- **Current Status**: 3.27 million teachers nationally as of 2023-24
+- **Current Status**: 6.57 million teachers nationally as of 2023-24 (comprehensive category analysis)
 - **Data Quality**: Analysis revealed significant reporting inconsistencies that can lead to misleading interpretations of teacher workforce trends
 
 ### State Stories
@@ -44,6 +44,12 @@ state reporting compliance, though patterns of which states and staff
 categories have missing data could warrant further investigation
 - State-level variations suggest multiple factors at play, warranting 
 further investigation
+
+### Methodology Refinement
+
+**Analysis Evolution**: Initial analysis used single "Teachers" category (~6K loss), refined approach combines all teacher categories (Elementary, Secondary, Kindergarten, Pre-K, Ungraded) for comprehensive workforce analysis (~12K loss). Both methods confirm the core finding: apparent teacher shortage was primarily a data reporting artifact.
+
+**Data Quality Issues**: Illinois (265K teachers → 0 in 2020-21) and Utah (60K teachers → 0 in 2020-21) accounted for 96% of apparent national loss during COVID period.
 
 ## What You'll Find Here
 
@@ -166,5 +172,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Last updated: August 2, 2025*  
+*Last updated: August 19, 2025*  
 *This analysis is ongoing - check back for updates and new findings*
