@@ -45,6 +45,23 @@ categories have missing data could warrant further investigation
 - State-level variations suggest multiple factors at play, warranting 
 further investigation
 
+### Teacher-Student Ratio Analysis (2024)
+
+**Elementary Education Shows Promise:**
+- Analysis of states with highest teacher-student ratios (Alabama, California, Arizona, Illinois, etc.) reveals **7 out of 8 states improved** elementary ratios over 8 years
+- Average improvement of **1.6 fewer students per teacher** in these challenging contexts
+- Notable successes: Idaho (-5.8), Alabama (-2.4), California (-1.8), Illinois (-2.2)
+
+**Secondary Education Challenges Persist:**
+- Mixed results in secondary grades: equal numbers improving, stable, and worsening
+- Average change near zero, suggesting persistent workforce challenges
+- Arizona and Idaho showing increases in secondary ratios
+
+**Key Methodological Discovery:**
+- Teacher-student ratios ≠ actual class sizes (ratios include all instructional staff)
+- National enrollment data reveals classification inconsistencies between states
+- Some states require exclusion due to systematic reporting anomalies (Florida, Kansas,...)
+
 ### Methodology Validation
 
 **Category Structure Investigation**: Comprehensive analysis of NCES teacher categories revealed that the general "Teachers" category represents the complete teacher workforce total, with specific categories (Elementary Teachers, Secondary Teachers, Kindergarten Teachers, Pre-kindergarten Teachers, Ungraded Teachers) serving as breakdowns of this total rather than additional categories. Mathematical analysis across all states and years confirms perfect 1:1 relationship (ratio = 1.00) between general "Teachers" count and sum of specific categories.
@@ -55,9 +72,11 @@ further investigation
 
 ## What You'll Find Here
 
-Current analysis includes:
+- Current analysis includes:
 - National workforce trend analysis with COVID period highlighted
 - State-by-state comparison of teacher count changes
+- **Teacher-student ratio analysis across grade levels (2016-2024)**
+- **Focus on states with highest ratios to test improvement universality**
 - Professional visualizations for LinkedIn and presentations
 - Investigation of unusual data patterns and reporting inconsistencies
 - Systematic validation of NCES teacher category structure
@@ -86,16 +105,20 @@ methodology develops.
 validation, category structure investigation
 - **Approach**: Multi-year consolidation, missing value analysis, outlier 
 investigation, methodological validation
+- **Data Integration**: Combined teacher workforce and enrollment data for ratio calculations
+- **Quality Control**: Applied systematic filters for data reporting inconsistencies
 
 ## How It's Organized
 
 ```
 k12-teacher-trends-analysis/
 ├── data/                          # NCES source data files (2016-2024)
+│   ├── staff/                     # Teacher workforce data
+│   └── enrollment/                # Student enrollment data
 ├── outputs/                       # Generated visualizations and charts
-├── notebooks/                     # Jupyter analysis notebooks
-├── 01_teacher_data_exploration.ipynb  # Primary analysis notebook
-├── 02_state_level_deep_dive.ipynb    # Category structure investigation
+├── 01_teacher_data_exploration.ipynb  # Primary workforce analysis
+├── 02_state_level_deep_dive.ipynb    # Category structure investigation  
+├── 03_teacher_student_ratios.ipynb   # Ratio analysis and grade-level trends
 └── README.md                      # Project documentation
 ```
 
@@ -141,16 +164,15 @@ These findings could inform:
 
 ## About Me
 
-I'm Meredith Bouvier, and I bring 13+ years of experience in K-12 
-education research and policy. My background includes work with 
-international organizations (World Bank, Global Partnership for Education, 
-OECD) and direct classroom experience as a certified high school teacher 
-in New York City. I hold a PhD in Adult Education, MA in Mathematics, and 
-BS in Mathematics.
+I'm Meredith Bouvier, a quantitative researcher with 13+ years of experience analyzing complex social systems through education research and policy. My background spans international organizations (World Bank, Global Partnership for Education, OECD) and direct field experience as a certified high school teacher in New York City.
 
-I'm particularly interested in education workforce analytics, 
-international education policy, and using data to support better 
-decision-making in education.
+I hold a PhD in Adult Education, MA in Mathematics, and BA in Mathematics, with expertise in statistical analysis, survey methodology, and large-scale administrative data. My work focuses on using quantitative methods to understand social patterns, policy impacts, and behavioral trends across diverse populations.
+
+**Research Interests**: Social science analytics, survey research methodology, big data applications in understanding human behavior, and translating complex statistical findings into actionable insights for organizations and policymakers.
+
+**Technical Skills**: Python (pandas, statistical analysis), survey design, longitudinal data analysis, data visualization, and working with large administrative datasets.
+
+I'm particularly interested in roles where I can apply quantitative social science methods to understand user behavior, social trends, and policy outcomes - whether in tech, government, or research institutions.
 
 ## Connect
 
@@ -169,11 +191,7 @@ Bouvier, M. (2024). K-12 Teacher Workforce Trends Analysis: Eight-Year
 Study of US Teacher Staffing Patterns (2016-2024). GitHub Repository.
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
-*Last updated: August 21, 2025*  
+*Last updated: September 14, 2025*  
 *This analysis is ongoing - check back for updates and new findings*
