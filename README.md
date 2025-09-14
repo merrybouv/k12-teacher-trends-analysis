@@ -15,10 +15,10 @@ COVID-19 on teacher workforce size across 58 US jurisdictions.
 ## Key Findings So Far
 
 ### National Picture
-- **COVID Impact**: Apparent 338,039 teacher reduction (5.2% drop) largely due to Illinois and Utah reporting gaps; actual workforce loss among consistently reporting states was ~12,000 teachers (0.2%) using comprehensive teacher category analysis
+- **COVID Impact**: Apparent 338,039 teacher reduction (5.2% drop) largely due to Illinois and Utah reporting gaps; actual workforce loss among consistently reporting states was ~6,000 teachers (0.2%) using validated NCES methodology
 - **Recovery Pattern**: Steady workforce growth since 2021, approaching 
 pre-pandemic levels
-- **Current Status**: 6.57 million teachers nationally as of 2023-24 (comprehensive category analysis)
+- **Current Status**: 6.57 million teachers nationally as of 2023-24
 - **Data Quality**: Analysis revealed significant reporting inconsistencies that can lead to misleading interpretations of teacher workforce trends
 
 ### State Stories
@@ -45,9 +45,11 @@ categories have missing data could warrant further investigation
 - State-level variations suggest multiple factors at play, warranting 
 further investigation
 
-### Methodology Refinement
+### Methodology Validation
 
-**Analysis Evolution**: Initial analysis used single "Teachers" category (~6K loss), refined approach combines all teacher categories (Elementary, Secondary, Kindergarten, Pre-K, Ungraded) for comprehensive workforce analysis (~12K loss). Both methods confirm the core finding: apparent teacher shortage was primarily a data reporting artifact.
+**Category Structure Investigation**: Comprehensive analysis of NCES teacher categories revealed that the general "Teachers" category represents the complete teacher workforce total, with specific categories (Elementary Teachers, Secondary Teachers, Kindergarten Teachers, Pre-kindergarten Teachers, Ungraded Teachers) serving as breakdowns of this total rather than additional categories. Mathematical analysis across all states and years confirms perfect 1:1 relationship (ratio = 1.00) between general "Teachers" count and sum of specific categories.
+
+**Validated Approach**: Analysis uses NCES "Teachers" category as the definitive measure of total teacher workforce. This methodology prevents double-counting and aligns with NCES data structure where specific teacher categories are mutually exclusive breakdowns of the total.
 
 **Data Quality Issues**: Illinois (265K teachers → 0 in 2020-21) and Utah (60K teachers → 0 in 2020-21) accounted for 96% of apparent national loss during COVID period.
 
@@ -58,6 +60,7 @@ Current analysis includes:
 - State-by-state comparison of teacher count changes
 - Professional visualizations for LinkedIn and presentations
 - Investigation of unusual data patterns and reporting inconsistencies
+- Systematic validation of NCES teacher category structure
 
 ## About the Data
 
@@ -66,9 +69,7 @@ Current analysis includes:
 - **Geographic Scope**: All 50 states, DC, territories, and federal 
 education systems
 - **Scale**: 11,407 observations across 27 staff categories
-- **Teacher Categories**: Analysis includes general "Teachers" category as 
-well as Elementary Teachers, Secondary Teachers, Kindergarten Teachers, 
-Pre-kindergarten Teachers, and Ungraded Teachers
+- **Teacher Categories**: Analysis uses NCES "Teachers" category as total workforce measure, with breakdowns available by Elementary Teachers, Secondary Teachers, Kindergarten Teachers, Pre-kindergarten Teachers, and Ungraded Teachers
 - **Jurisdictions**: 58 different education systems
 - **Data Selection Note**: Originally planned to analyze 10 years of data 
 (2014-2024), but early datasets used significantly different reporting 
@@ -82,9 +83,9 @@ methodology develops.
 - **Main Tools**: pandas, matplotlib, seaborn, numpy
 - **Environment**: Jupyter Notebook
 - **Methods**: Time-series analysis, comparative statistics, data 
-validation
+validation, category structure investigation
 - **Approach**: Multi-year consolidation, missing value analysis, outlier 
-investigation
+investigation, methodological validation
 
 ## How It's Organized
 
@@ -94,6 +95,7 @@ k12-teacher-trends-analysis/
 ├── outputs/                       # Generated visualizations and charts
 ├── notebooks/                     # Jupyter analysis notebooks
 ├── 01_teacher_data_exploration.ipynb  # Primary analysis notebook
+├── 02_state_level_deep_dive.ipynb    # Category structure investigation
 └── README.md                      # Project documentation
 ```
 
@@ -103,11 +105,12 @@ The analysis follows a systematic approach:
 1. **Data Consolidation**: Combined eight years of NCES staff data with 
 consistent formatting
 2. **Quality Assessment**: Evaluated missing values and reporting patterns
-3. **Trend Analysis**: Calculated year-over-year changes and identified 
+3. **Methodology Validation**: Investigated NCES category structure to ensure accurate workforce measurement
+4. **Trend Analysis**: Calculated year-over-year changes and identified 
 patterns
-4. **Comparative Analysis**: Examined state-level workforce changes and 
+5. **Comparative Analysis**: Examined state-level workforce changes and 
 variations
-5. **Impact Assessment**: Focused analysis on COVID-19 pandemic effects
+6. **Impact Assessment**: Focused analysis on COVID-19 pandemic effects
 
 ## What's Coming Next
 
@@ -172,5 +175,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Last updated: August 19, 2025*  
+*Last updated: August 21, 2025*  
 *This analysis is ongoing - check back for updates and new findings*
