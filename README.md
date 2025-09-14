@@ -45,7 +45,7 @@ categories have missing data could warrant further investigation
 - State-level variations suggest multiple factors at play, warranting 
 further investigation
 
-### Teacher-Student Ratio Analysis (2024)
+### Teacher-Student Ratio Analysis (2016-2024)
 
 **Elementary Education Shows Promise:**
 - Analysis of states with highest teacher-student ratios (Alabama, California, Arizona, Illinois, etc.) reveals **7 out of 8 states improved** elementary ratios over 8 years
@@ -76,7 +76,7 @@ further investigation
 - National workforce trend analysis with COVID period highlighted
 - State-by-state comparison of teacher count changes
 - **Teacher-student ratio analysis across grade levels (2016-2024)**
-- **Focus on states with highest ratios to test improvement universality**
+- **Focused on the states the highest ratios (but still realistic) to see if they also showed improvements like the lower ratio states**
 - Professional visualizations for LinkedIn and presentations
 - Investigation of unusual data patterns and reporting inconsistencies
 - Systematic validation of NCES teacher category structure
